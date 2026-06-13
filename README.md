@@ -1,12 +1,20 @@
-<h1 align="left">Hi there, I'm Rafael Henrique 👋</h1>
+<h1 align="left">Hi there, I'm Rafael 👋</h1>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Behind the Code</h2>
 
 ###
 
 <p align="left">I'm always trying to pick up better practices, sharpen my skills, or challenge myself with something new. Right now, I work mostly with PHP and MySQL, and I'm focused on growing as a developer. I genuinely enjoy web development and everything that goes into building web applications.</p>
+
+###
+
+<h2 align="left">Here's the Details</h2>
+
+###
+
+<p align="left">- Name: Rafael Henrique<br>- Single<br>- Age: 23<br>- Living in: Distrito Federal - DF, Brazil<br>- Stack: PHP/Laravel<br>- University: UNIPLAN - Centro Universitário Planalto do Distrito Federal</p>
 
 ###
 
